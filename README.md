@@ -1,7 +1,7 @@
 # Food-Claims-Analysis-With-PowerBI
 I worked on this project to ace my Data Analyst Associate [Certification](https://www.datacamp.com/certificate/DAA0010430084846) with DataCamp. 
 
-The analysis is for Vivendo a fast food chain in Brazil with over 200 outlets.
+The analysis was for "Vivendo" a fictitious fast food chain in Brazil with over 200 outlets.
 
 According to the project description, customers often claim compensation from the company for food poisoning and their legal team processes these claims. The legal team has offices in four locations.
 
