@@ -8,4 +8,4 @@ According to the project description, customers often claim compensation from th
 The legal team wants to improve how long it takes to reply to customers and close claims. The head of the legal department wants a report on how each location differs in the time it
 takes to close claims.
 
-Dive into the analysis [Here]()
+Dive into the analysis [Here](https://github.com/JachimmaChristian/Food-Claims-Analysis-With-PowerBI/blob/main/workspace/notebook.ipynb)
